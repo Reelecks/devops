@@ -1,3 +1,3 @@
 <?php
-echo "Bienvenue sur mon site web !";
+echo "Bienvenue sur mon site web test !";
 ?>
